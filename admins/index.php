@@ -1,5 +1,5 @@
 <?php
-session_start(); // Ensure session starts at the beginning
+session_start(); // Ensure session starts at the beginning ....
 include "./header.php"; 
 ?>
 
